@@ -1,0 +1,25 @@
+{
+  "name": "callforcode-2018",
+  "version": "1.0.0",
+  "description": "call for code project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barnesdc/callforcode-2018.git"
+  },
+  "keywords": [
+    "Ionic",
+    "Nodejs",
+    "Watson",
+    "Cloud"
+  ],
+  "author": "D'Ante Barnes, Saquan Anthony, Phuc Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnesdc/callforcode-2018/issues"
+  },
+  "homepage": "https://github.com/barnesdc/callforcode-2018#readme"
+}
